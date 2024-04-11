@@ -5,6 +5,5 @@ in
   pkgs.mkShell {
     packages = [
       pkgs.zig
-      # other deps here
     ];
   }
